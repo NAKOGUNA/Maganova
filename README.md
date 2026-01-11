@@ -1,4 +1,4 @@
-name: Build Android APK
+Maganova: Build Android APK
 
 on:
   push:
